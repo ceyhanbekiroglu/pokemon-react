@@ -1,1 +1,1 @@
-# pokemon-react
+# pokemon app w/react
