@@ -1,7 +1,5 @@
 # pokemon app w/react
 
-You can search recipes and cook by yourself :)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
